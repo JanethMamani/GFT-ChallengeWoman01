@@ -33,6 +33,7 @@ public class Decodificador {
 		}
 		
 		System.out.println(mensagem);
+		write.close();
 	}
 
 }
